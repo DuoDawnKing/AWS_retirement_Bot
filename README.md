@@ -7,3 +7,5 @@ The project was updated and completed
 The lambda bot code is th eone that works
 
 ![recommend portfolio](https://user-images.githubusercontent.com/100724428/185723715-6cb24d3d-fd9f-486c-b910-c75e50f55965.PNG)
+![part 2](https://user-images.githubusercontent.com/100724428/185724072-1750641e-d980-4b5e-85f1-7235f96479af.PNG)
+![part 3](https://user-images.githubusercontent.com/100724428/185724075-e3d57e70-6821-4867-a7bf-c51e0c155561.PNG)
