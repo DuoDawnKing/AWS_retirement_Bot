@@ -6,3 +6,4 @@ The project was updated and completed
 
 The lambda bot code is th eone that works
 
+![recommend portfolio](https://user-images.githubusercontent.com/100724428/185723715-6cb24d3d-fd9f-486c-b910-c75e50f55965.PNG)
